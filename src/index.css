@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+button, h4{
+  color:white;
+  font-family: 'economica', cursive;
+}
+p{
+  font-family: 'economica', cursive;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
